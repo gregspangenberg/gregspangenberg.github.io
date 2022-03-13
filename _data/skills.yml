@@ -9,7 +9,7 @@
 
 - skill: Data Visualization 
   rating: 4
-  libraries: Plotly • Dash • Matplotlib
+  libraries: Plotly • Dash • Matplotlib • Tableau
 
 - skill: Machine Learning
   rating: 3
@@ -17,6 +17,9 @@
 
 - skill: LaTeX
   rating: 4
+
+- skill: SQL
+  rating: 3
 
 - skill: Matlab
   rating: 3
