@@ -197,11 +197,11 @@
   .resume-item-list {
     a {
       color: #333;
-      text-decoration: none;
-      border-bottom: 1px solid;
+      text-decoration: underline;
+      // border-bottom: 1px solid;
 
       &:hover {
-        border-bottom: none;
+        border-bottom: underline;
         color: #9c9c9c;
       }
     }
