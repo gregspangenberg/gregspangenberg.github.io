@@ -177,6 +177,10 @@
     &.award-title {
       font-size: 1rem;
     }
+
+    &.publication-title{
+      overflow-wrap: break-word;
+    }
   }
 
   .resume-item-subgroup {
