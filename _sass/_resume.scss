@@ -184,6 +184,11 @@
     &.award-title {
       font-size: 1rem;
     }
+
+    &.url-title{
+      overflow-wrap: break-word;
+      text-decoration: none;
+    }
   }
 
   .resume-item-subgroup {
@@ -199,11 +204,10 @@
   .resume-item-list {
     a {
       color: #333;
-      text-decoration: none;
-      border-bottom: 1px solid;
+      // text-decoration: underline;
 
       &:hover {
-        border-bottom: none;
+        // border-bottom: underline;
         color: #9c9c9c;
       }
     }
