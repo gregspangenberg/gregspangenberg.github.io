@@ -171,9 +171,16 @@
 
   .resume-item-details {
     font-size: 1.125rem;
-    margin: 0 0 .75rem;
+    margin: 0 0 .5rem;
     line-height: 1;
 
+    &.specialization-title {
+      font-weight:500;
+      font-style: italic;
+      font-size: 1.0rem;
+      margin: 0 0 0rem;
+      line-height: 1;
+    }
     &.award-title {
       font-size: 1rem;
     }
