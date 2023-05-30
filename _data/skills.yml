@@ -2,18 +2,18 @@
 
 - skill: Python
   rating: 5
-
+  
+- skill: Machine Learning
+  rating: 5
+  libraries: Pytorch • Tensorflow • Scikit-Learn
+  
 - skill: Data Modeling / Wrangling
   rating: 5
-  libraries: Pandas • Pandera • NumPy • Scikit Learn • SciPy • Statsmodels
+  libraries: Pandas • Pandera • NumPy •  SciPy • Statsmodels
 
 - skill: Data Visualization 
   rating: 4
-  libraries: Plotly • Dash • Matplotlib • Tableau
-
-- skill: Machine Learning
-  rating: 3
-  libraries: Tensorflow
+  libraries: Plotly • Dash • Matplotlib
 
 - skill: LaTeX
   rating: 4
