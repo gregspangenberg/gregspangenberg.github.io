@@ -2,6 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
+- publication: Automatic bicipital groove identification in arthritic humeri for preoperative planning: A Random Forest Classifier approach
+  journal: Computers in Biology and Medicine
+  date: May. 2024
+  url: "https://doi.org/10.1016/j.compbiomed.2024.108653"
+
 - publication: Stemless Reverse Humeral Component Neck Shaft Angle has an Influence on Initial Fixation
   journal: Journal of Shoulder and Elbow Surgery
   date: July. 2023
