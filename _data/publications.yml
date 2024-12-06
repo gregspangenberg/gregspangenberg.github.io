@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-- publication: Automatic Bicipital Groove Identification in Arthritic Humeri for Preoperative Planning: A Random Forest Classifier approach
+- publication: Automatic Bicipital Groove Identification in Arthritic Humeri for Preoperative Planning: A Random Forest Classifier Approach
   journal: Computers in Biology and Medicine
   date: May. 2024
   url: "https://doi.org/10.1016/j.compbiomed.2024.108653"
